@@ -73,3 +73,37 @@ Successful request: OPTIONS /api/recipes/ with status 200
 Incoming request: GET /api/recipes/
 Response: 200 for /api/recipes/
 Successful request: GET /api/recipes/ with status 200
+Incoming request: GET /api/recipes/1
+Response: 404 for /api/recipes/1
+Incoming request: GET /api/recipes/1/
+Response: 200 for /api/recipes/1/
+Successful request: GET /api/recipes/1/ with status 200
+Incoming request: OPTIONS /api/recipes/1/
+Response: 200 for /api/recipes/1/
+Successful request: OPTIONS /api/recipes/1/ with status 200
+Incoming request: GET /api/recipes/1/
+Response: 200 for /api/recipes/1/
+Successful request: GET /api/recipes/1/ with status 200
+Incoming request: GET /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: GET /api/recipes/ with status 200
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: GET /favicon.ico
+Response: 404 for /favicon.ico
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: GET /favicon.ico
+Response: 404 for /favicon.ico
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: GET /favicon.ico
+Response: 404 for /favicon.ico
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
