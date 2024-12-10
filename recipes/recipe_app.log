@@ -107,3 +107,42 @@ Incoming request: GET /favicon.ico
 Response: 404 for /favicon.ico
 Incoming request: POST /api/recipes/
 Response: 400 for /api/recipes/
+Incoming request: POST /api/recipes/
+Response: 400 for /api/recipes/
+Incoming request: GET /favicon.ico
+Response: 404 for /favicon.ico
+Incoming request: GET /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: GET /api/recipes/ with status 200
+Incoming request: GET /api/
+Response: 200 for /api/
+Successful request: GET /api/ with status 200
+Incoming request: OPTIONS /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: OPTIONS /api/recipes/ with status 200
+Incoming request: OPTIONS /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: OPTIONS /api/recipes/ with status 200
+Incoming request: GET /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: GET /api/recipes/ with status 200
+Incoming request: POST /api/recipes/
+Response: 201 for /api/recipes/
+Successful request: POST /api/recipes/ with status 201
+Incoming request: OPTIONS /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: OPTIONS /api/recipes/ with status 200
+Incoming request: OPTIONS /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: OPTIONS /api/recipes/ with status 200
+Incoming request: GET /api/recipes/3
+Response: 404 for /api/recipes/3
+Incoming request: GET /api/recipes/3/
+Response: 200 for /api/recipes/3/
+Successful request: GET /api/recipes/3/ with status 200
+Incoming request: DELETE /api/recipes/3/
+Response: 200 for /api/recipes/3/
+Successful request: DELETE /api/recipes/3/ with status 200
+Incoming request: GET /api/recipes/
+Response: 200 for /api/recipes/
+Successful request: GET /api/recipes/ with status 200

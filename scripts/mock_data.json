@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "name": "Spaghetti Bolognese",
+            "ingredient": "Spaghetti, minced beef, tomato sauce, onions, garlic, olive oil, salt, pepper",
+            "time": 30,
+            "process": "Boil spaghetti. In a pan, sauté onions and garlic, add minced beef and cook. Add tomato sauce and simmer. Combine with spaghetti."
+        },
+        {
+            "name": "Chicken Curry",
+            "ingredient": "Chicken, curry powder, coconut milk, onions, garlic, ginger, salt, pepper",
+            "time": 45,
+            "process": "Cook chicken in a pan. Add onions, garlic, and ginger, and sauté. Add curry powder and coconut milk. Simmer until thick."
+        },
+        {
+            "name": "Caesar Salad",
+            "ingredient": "Lettuce, croutons, parmesan cheese, Caesar dressing, chicken breast",
+            "time": 15,
+            "process": "Grill chicken and slice. Toss lettuce, croutons, parmesan, and Caesar dressing in a bowl. Top with chicken slices."
+        },
+        {
+            "name": "Vegetable Stir Fry",
+            "ingredient": "Carrots, broccoli, bell peppers, soy sauce, garlic, ginger, sesame oil",
+            "time": 20,
+            "process": "Heat sesame oil in a pan. Add garlic and ginger. Stir-fry vegetables. Add soy sauce and cook for 5 minutes."
+        },
+        {
+            "name": "Pancakes",
+            "ingredient": "Flour, milk, eggs, sugar, butter, baking powder, vanilla extract",
+            "time": 20,
+            "process": "Mix all ingredients into a batter. Heat butter in a pan. Pour batter to form pancakes. Flip and cook both sides."
+        },
+        {
+            "name": "Beef Stroganoff",
+            "ingredient": "Beef, mushrooms, onions, sour cream, butter, flour, beef broth, salt, pepper",
+            "time": 40,
+            "process": "Sauté beef and mushrooms in butter. Add onions and cook. Stir in flour, broth, and sour cream. Simmer until thickened."
+        },
+        {
+            "name": "Tacos",
+            "ingredient": "Tortillas, ground beef, lettuce, tomato, cheese, taco seasoning, salsa",
+            "time": 25,
+            "process": "Cook beef with taco seasoning. Warm tortillas. Assemble tacos with beef, lettuce, tomato, cheese, and salsa."
+        },
+        {
+            "name": "Margarita Pizza",
+            "ingredient": "Pizza dough, tomato sauce, mozzarella cheese, fresh basil, olive oil",
+            "time": 30,
+            "process": "Spread tomato sauce on dough. Add mozzarella. Bake in oven. Top with fresh basil and drizzle olive oil."
+        },
+        {
+            "name": "Minestrone Soup",
+            "ingredient": "Vegetable broth, pasta, beans, carrots, celery, tomatoes, onions, garlic, olive oil",
+            "time": 50,
+            "process": "Sauté onions and garlic in olive oil. Add vegetables, broth, and pasta. Simmer until tender. Add beans and cook for 10 more minutes."
+        },
+        {
+            "name": "Grilled Cheese Sandwich",
+            "ingredient": "Bread, cheese, butter",
+            "time": 10,
+            "process": "Butter the bread slices. Place cheese between slices. Grill in a pan until golden brown on both sides."
+        },
+        {
+            "name": "Chicken Alfredo",
+            "ingredient": "Fettuccine pasta, chicken breast, heavy cream, parmesan cheese, garlic, butter",
+            "time": 35,
+            "process": "Cook pasta. Sauté chicken and garlic in butter. Add cream and parmesan to make the sauce. Combine with pasta."
+        },
+        {
+            "name": "Tomato Basil Soup",
+            "ingredient": "Tomatoes, basil, garlic, onions, vegetable broth, olive oil, salt, pepper",
+            "time": 40,
+            "process": "Sauté onions and garlic. Add tomatoes and broth. Simmer, then blend. Add basil and simmer for 5 more minutes."
+        },
+        {
+            "name": "Fish Tacos",
+            "ingredient": "Tortillas, fish fillets, cabbage, lime, sour cream, salsa, taco seasoning",
+            "time": 30,
+            "process": "Season fish with taco seasoning and grill. Warm tortillas. Assemble tacos with fish, cabbage, sour cream, and salsa."
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "ingredient": "Flour, sugar, butter, eggs, chocolate chips, baking soda, vanilla extract",
+            "time": 25,
+            "process": "Mix all ingredients into dough. Spoon onto a baking sheet. Bake until golden brown."
+        },
+        {
+            "name": "Stuffed Bell Peppers",
+            "ingredient": "Bell peppers, ground beef, rice, tomato sauce, cheese, garlic, onions, salt, pepper",
+            "time": 50,
+            "process": "Cut tops off bell peppers and remove seeds. Cook beef with onions and garlic. Mix with rice and tomato sauce. Stuff peppers and bake."
+        }
+    ]
+}
